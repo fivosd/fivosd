@@ -1,5 +1,8 @@
 # About Me
-I am a passionate and experienced Python developer with a focus on the use of computer systems in optimising financial market operations. I specialise in the systematic strategy backtesting, quantitative opportunity detection and trading system design. My software blends aspects of 
+I am a passionate and experienced Python developer with a focus on the use of computer systems in optimising financial market operations. I specialise in the systematic strategy backtesting, quantitative opportunity detection and trading system design. My software blends aspects of theoretical advancments in finance, statistics and machine learning with practical simplicity and a focus on efficiency. 
+
+# :book: Find Me On:
+
  
 # :hammer_and_wrench: Languages and Tools:
 
@@ -22,6 +25,6 @@ I am a passionate and experienced Python developer with a focus on the use of co
 </div>
 
  # :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fivosd&theme=dark&background=000000)](https://git.io/streak-stats)
-
+ [![Fivos' GitHub stats](https://github-readme-stats.vercel.app/api?username=fivosd&theme=onedark)](https://github.com/fivosd/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fivosd&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fivosd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
