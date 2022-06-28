@@ -21,6 +21,7 @@ I am a passionate and experienced Python developer with a focus on the use of co
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RasberryPi" alt="RasberryPi" width="60" height="60"/>&nbsp;
   
   
+ 
 
 </div>
 
