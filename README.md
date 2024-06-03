@@ -9,7 +9,7 @@ You can find a number of different types of projects such as applications, learn
 ## :clock10: Latest Projects
   
 * June 2024 :: LearnVECM (UAC)
-* January 2024 :: ATHEX_STATUS
+* January 2024 :: [ATHEX_STATUS](https://github.com/fivosd/ATHEX-STATUS)
 
 </div>
 
