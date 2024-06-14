@@ -10,8 +10,10 @@ On my GitHub profile you can find a number of of projects such as applications, 
 ## :clock10: Latest Projects
   
 * June 2024 :: LearnVECM (UAC)
+
   Vector Error Correction Model deep-dive implementation guide.
 * January 2024 :: [ATHEX_STATUS](https://github.com/fivosd/ATHEX-STATUS)
+
   Native python GUI app to show ATHEX Services status.
 </div>
 
